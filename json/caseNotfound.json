@@ -1,0 +1,67 @@
+{
+    "sys" : null,
+    "appColor": null,
+    "applicationIcon": null,
+    "content": {
+        "json": {
+        "data": {},
+        "content": [
+            {
+            "data": {},
+            "content": [
+                {
+                "data": {},
+                "marks": [],
+                "value": "Åh nej!",
+                "nodeType": "text"
+                }
+            ],
+            "nodeType": "paragraph"
+            },
+            {
+            "data": {},
+            "content": [
+                {
+                "data": {},
+                "marks": [],
+                "value": "Det ser ud til at være problemer med indlæsningen af et case!",
+                "nodeType": "text"
+                }
+            ],
+            "nodeType": "paragraph"
+            },
+            {
+            "data": {},
+            "content": [
+                {
+                "data": {},
+                "marks": [],
+                "value": "Vil du være så sød at kontakte mig på LinkedIn og gøre mig opmærksom på, at min portefølje ikke fungerer? ❤️",
+                "nodeType": "text"
+                }
+            ],
+            "nodeType": "paragraph"
+            }
+        ],
+        "nodeType": "document"
+        }
+    },
+    "title": "Upsedasse! Det var et fejl!!!",
+    "urlArr": [
+        {
+            "id": null,
+            "key": "Kontakt mig på LinkedIn",
+            "value": "https://linkedin.com/in/erol-bakic/"
+        }
+    ],
+    "urlArrMeta": null,
+    "videoDemonstration": null,
+    "imageDemonstration": {
+        "title": "Fejl!",
+        "url": ""
+    },
+    "technologyIconsCollection": {
+        "total": 0,
+        "items": []
+    }
+}
